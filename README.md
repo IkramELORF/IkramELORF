@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Fresh graduate software engineer sharing my journey and learnings in tech.<br> 
 🎓  Completed a Master's in Software Engineering at the Institute of Medenine, Tunisia.<br> 
-🌐  Currently learning about web development.
+🚀  Currently learning about web development.
 
 
 ## 🌐 Socials:
